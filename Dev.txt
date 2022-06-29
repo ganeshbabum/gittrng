@@ -1,6 +1,3 @@
 line 1 added from dev brnach
-<<<<<<< HEAD
 line 2 added from master
-=======
 line 2 added frm dev
->>>>>>> dev
